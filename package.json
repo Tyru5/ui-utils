@@ -1,0 +1,26 @@
+{
+  "name": "ui-utils",
+  "version": "1.0.0",
+  "description": "Swiss-Army-Knife of AngularJS tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyru5/ui-utils.git"
+  },
+  "keywords": [
+    "ui-utils",
+    "AngularJs",
+    "companion",
+    "suite",
+    "framework"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyru5/ui-utils/issues"
+  },
+  "homepage": "https://github.com/Tyru5/ui-utils#readme"
+}
